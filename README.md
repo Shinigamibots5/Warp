@@ -6,27 +6,26 @@
 
 
 # Warp+ Injector
-Ini adalah simpel bot untuk menambahkan bandwidth Wapr+ yang ditulis dengan program Python.
-Bot akan menambahkan 1GB data per 20 detik (untuk durasi datap diatur di config, namun disarankan di atas 20 detik).
+This is a simple bot for adding bandwidth to Wapr+ written in Python. The bot will add 1GB of data per 20 seconds (for data duration set in config, but recommended above 20 seconds).
 
-## Instalasi
-- Instal Python
-- Unduh repo kemudian instal dependensi
+## Installation
+- Install Python
+- Download the repo then install the dependencies
 ```
 pip3 install --no-cache-dir -r requirements.txt
 ```
-- Ubah `config_sample.env` > `config.env` kemudian isi `env` sesuai kebutuhan
-- Jalankan bot dengan cara `bash start.sh`
+- Change `config_sample.env`> `config.envthen` fill `env`as needed
+- Run the bot in a way `bash start.sh`
 
 ## Deploy Heroku
 [![Deploy Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Daftar Perintah
 ```
-start - Ceck keadaan bot (idup/tewas)
-stats - Cek bot system
-log - Cek log bot
-restart - Mulai ulang bot
+start - Check the state of the bot (on/dead)
+stats - Check bot system
+logs - Check bot logs
+restart - Restart the bot
 ``` 
 
 ##### *<i>Bot untuk penggunaan pribadi</i>
