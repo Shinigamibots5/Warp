@@ -28,4 +28,4 @@ logs - Check bot logs
 restart - Restart the bot
 ``` 
 
-##### *<i>Bot untuk penggunaan pribadi</i>
+##### *<i>bots for personal use</i>
