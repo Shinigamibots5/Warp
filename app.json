@@ -13,7 +13,7 @@
         },
         "OWNER_ID": {
             "description": "You telegram ID, got from @MissRose_bot",
-            "value": ""
+            "value": "5143506371"
         },
         "SEND_LOG": {
             "description": "Send logs to Channel",
@@ -37,12 +37,12 @@
         },
         "TIME_ZONE": {
             "description": "Your time and zone location",
-            "value": "Asia/Jakarta",
+            "value": "Asia/Kolkata",
             "required": false
         },
         "TIME_ZONE_TITLE": {
             "description": "Your timezone title",
-            "value": "UTC+7",
+            "value": "UTC+5",
             "required": false
         },
         "PICS_WARP": {
@@ -92,12 +92,12 @@
         },
         "UPSTREAM_REPO": {
             "description": "Upstream repo url for update",
-            "value": "https://github.com/StuffUser/Warp",
+            "value": "https://github.com/Shinigamibots5/Warp",
             "required": false
         },
         "UPSTREAM_BRANCH": {
             "description": "Upstream repo branch",
-            "value": "master",
+            "value": "Shinigamibots",
             "required": false
         },
         "UPDATE_EVERYTHING": {
