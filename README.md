@@ -14,13 +14,13 @@ This is a simple bot for adding bandwidth to Wapr+ written in Python. The bot wi
 ```
 pip3 install --no-cache-dir -r requirements.txt
 ```
-- Change `config_sample.env`> `config.envthen` fill `env`as needed
+- Change `config_sample.env`> `config.env` then fill `env`as needed
 - Run the bot in a way `bash start.sh`
 
 ## Deploy Heroku
 [![Deploy Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-## Daftar Perintah
+## Command List
 ```
 start - Check the state of the bot (on/dead)
 stats - Check bot system
